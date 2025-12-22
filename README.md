@@ -1,6 +1,6 @@
 ![Logo](images/科技风主页图片.png)
 
-# 嗨，我是 Easy 👋
+# 嗨，我是 fzf 👋
 
 🚀 Python 后端开发工程师 | 🤖 AI Agent 爱好者
 
