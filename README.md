@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 嗨，我是 fzf
+# 👋 嗨，我是 Neo
 
 **✨ 专注于打造优雅后端系统的技术探索者**
 
@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <img src="images/2.png" alt="Programming background" style="width: 100%; border-radius: 16px; margin-bottom: 30px; box-shadow: 0 8px 32px rgba(0,0,0,0.15); transition: all 0.3s ease; transform: scale(1);" />
+  <img src="images/设计之美.png" alt="Programming background" style="width: 100%; border-radius: 16px; margin-bottom: 30px; box-shadow: 0 8px 32px rgba(0,0,0,0.15); transition: all 0.3s ease; transform: scale(1);" />
   <p style="color: #888; font-size: 0.9em; margin-top: -25px; margin-bottom: 30px;">设计之美，技术之魂</p>
 </div>
 
@@ -99,7 +99,7 @@ class UserViewSet(
 ## 🔍 当前工作
 
 <div align="center">
-  <img src="images/1.gif" alt="专注工作" style="width: 60%; border-radius: 16px; margin-bottom: 30px; box-shadow: 0 8px 32px rgba(0,0,0,0.15); transition: all 0.3s ease;" />
+  <img src="images/当前工作.gif" alt="专注工作" style="width: 60%; border-radius: 16px; margin-bottom: 30px; box-shadow: 0 8px 32px rgba(0,0,0,0.15); transition: all 0.3s ease;" />
   <p style="color: #888; font-size: 0.9em; margin-top: -25px; margin-bottom: 30px;">专注投入，匠心打造</p>
 </div>
 
@@ -115,7 +115,7 @@ class UserViewSet(
 ## 💡 个人信念
 
 <div align="center">
-  <img src="images/科技风主页图片.png" alt="Programming background" style="width: 100%; border-radius: 16px; margin-bottom: 30px; box-shadow: 0 8px 32px rgba(0,0,0,0.15); transition: all 0.3s ease; transform: scale(1);" />
+  <img src="images/个人信念.png" alt="Programming background" style="width: 100%; border-radius: 16px; margin-bottom: 30px; box-shadow: 0 8px 32px rgba(0,0,0,0.15); transition: all 0.3s ease; transform: scale(1);" />
   <p style="color: #888; font-size: 0.9em; margin-top: -15px; margin-bottom: 20px;">灵感无限，未来可期</p>
 </div>
 
