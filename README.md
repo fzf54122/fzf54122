@@ -43,6 +43,14 @@
   <p style="color: #888; font-size: 0.9em; margin-top: -25px; margin-bottom: 30px;">协作创新，开源未来</p>
 </div>
 
+### 📦 项目矩阵
+
+| 项目 | 一句话 | 技术关键词 |
+|:--|:--|:--|
+| **Fast Generic Api** | 让 FastAPI 开发像 DRF 一样优雅高效 | FastAPI · Pydantic · Tortoise |
+| **Rich Utils** | 终端输出/交互增强工具集（更美观、更工程化） | Rich · CLI · Tooling |
+
+
 ### 🚀 Fast Generic Api
 
 <div align="center">
@@ -93,7 +101,51 @@ class UserViewSet(
 <div align="center">
   <p style="margin-top: 15px; color: #666; font-size: 0.9em;">🔗 项目地址：<a href="https://github.com/fzf54122/fast_generic_api/">GitHub Repository</a></p>
 </div>
+---
 
+### 🧰 Rich Utils
+
+<div align="center">
+  <p><b>让终端输出像 Dashboard 一样清晰优雅</b></p>
+
+  <a href="https://github.com/fzf54122/rich-utils">
+    <img src="https://img.shields.io/badge/GitHub-rich--utils-black?logo=github" alt="repo" />
+  </a>
+  <img src="https://img.shields.io/badge/CLI-Rich-informational.svg" alt="cli" />
+  <img src="https://img.shields.io/badge/Focus-Engineering-success.svg" alt="focus" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License" />
+</div>
+
+一个面向工程化场景的 **终端 UI / 输出增强工具集**：将 Rich 的 Table / Panel / Progress / Layout 等能力沉淀为可复用组件，让脚本、运维工具、压测平台输出更一致、更可读。
+
+#### ✨ 核心能力
+
+| 能力 | 说明 |
+|:--|:--|
+| **📊 结构化展示** | 统一表格/面板样式，关键指标一眼可读 |
+| **⏱️ 进度与状态** | 进度条、步骤状态、耗时统计更直观 |
+| **🧱 可复用组件** | 常用输出组件封装，减少重复代码 |
+| **🧰 工程友好** | 适配脚本/CLI/压测平台，输出一致可维护 |
+
+#### 📝 快速开始（示例）
+
+```python
+from rich.console import Console
+from rich.table import Table
+
+console = Console()
+
+table = Table(title="Run Summary")
+table.add_column("Item", style="bold")
+table.add_column("Value")
+
+table.add_row("Tasks", "128")
+table.add_row("Success", "127")
+table.add_row("Fail", "1")
+
+console.print(table)
+```
+<p align="center"> 🔗 项目地址：<a href="https://github.com/fzf54122/rich-utils/">GitHub Repository</a> </p> 
 ---
 
 ## 🔍 当前工作
