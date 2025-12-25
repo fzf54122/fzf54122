@@ -50,6 +50,7 @@
 | **Fast Generic Api** | 让 FastAPI 开发像 DRF 一样优雅高效 | FastAPI · Pydantic · Tortoise |
 | **Rich Utils** | 终端输出/交互增强工具集（更美观、更工程化） | Rich · CLI · Tooling |
 
+---
 
 ### 🚀 Fast Generic Api
 
