@@ -101,6 +101,7 @@ class UserViewSet(
 <div align="center">
   <p style="margin-top: 15px; color: #666; font-size: 0.9em;">🔗 项目地址：<a href="https://github.com/fzf54122/fast_generic_api/">GitHub Repository</a></p>
 </div>
+
 ---
 
 ### 🧰 Rich Utils
@@ -146,6 +147,7 @@ table.add_row("Fail", "1")
 console.print(table)
 ```
 <p align="center"> 🔗 项目地址：<a href="https://github.com/fzf54122/rich-utils/">GitHub Repository</a> </p> 
+
 ---
 
 ## 🔍 当前工作
